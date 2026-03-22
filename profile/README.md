@@ -12,7 +12,7 @@
 
 ## Who We Are
 
-**Warrior Allegiance** is a veteran-owned technology organization focused on reducing the administrative burden veterans face when filing VA claims and benefits paperwork. We build open-source tools that automate document preparation, form generation, and digital signature workflows so veterans and their advocates can spend less time on paperwork and more time on what matters.
+**Warrior Allegiance** is a veteran-owned technology organization focused on reducing the administrative burden veterans face when filing VA claims and benefits paperwork. We build tools that automate our workflows so veterans and their counselors can spend less time on paperwork and more time on what matters.
 
 ## Contact
 
