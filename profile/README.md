@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WarriorAllegiance/.github/main/assets/wa-banner.png" alt="Warrior Allegiance" width="600" />
+  <img src="https://raw.githubusercontent.com/WarriorAllegiance/.github/main/profile/assets/wa-banner.png" alt="Warrior Allegiance" width="600" />
 </p>
 
 <h3 align="center">Veteran services automation.</h3>
