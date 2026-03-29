@@ -19,7 +19,3 @@
 Reach us through our official social media pages!, or connect with the team directly through our website contact.
 
 ---
-
-<p align="center">
-  <sub>Built for veterans, by veterans.</sub>
-</p>
